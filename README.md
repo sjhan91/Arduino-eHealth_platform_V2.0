@@ -25,5 +25,3 @@ Arduino code using eHealth plaform to collect human data &amp; send data to MATL
 This project is conducted by<br />
 Sangjun Han(hjun1008@gist.ac.kr), Bio-Computing Lab, GIST, South Korea<br />
 You can modify sleep_miili to adjust sampling rate for each sensor! (In my case, it follows AASM standard)<br />
-<br />
-### arduino_ehealth_data.mat will be uploaded later<br />
