@@ -2,7 +2,7 @@
 Arduino code using eHealth plaform to collect human data &amp; send data to MATLAB through serial communication
 
 ### My test environtment
-1) Arduino Uno R3
+1) Arduino Uno R3\n
 2) Arduino IDE 1.6.5 R5
 3) eHealth library for Arduino V2.4(July, 2015)
 4) Arduino mthread library for multi-thread programming(https://github.com/jlamothe/mthread)
