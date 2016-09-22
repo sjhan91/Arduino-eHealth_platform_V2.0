@@ -36,7 +36,7 @@ bool FooThread::loop()
       Serial.print(",");
       Serial.print(float(eHealth.getECG()));
       Serial.println();
-      sleep_milli(2.5);
+      sleep_milli(2);
       break;
     case 2:
       // Airflow
@@ -45,7 +45,7 @@ bool FooThread::loop()
       Serial.print(",");
       Serial.print(int(eHealth.getAirFlow()));
       Serial.println();
-      sleep_milli(10);
+      sleep_milli(9);
       break;
     case 3:
       // GSR
