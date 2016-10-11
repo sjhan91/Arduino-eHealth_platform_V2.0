@@ -19,7 +19,7 @@ Arduino code using eHealth plaform to collect human data &amp; send data to MATL
 6) Pulse<br />
 7) O2 saturation<br />
 
-### There are two files;
+### There are two files:
 1) arduino_mthread_ehealth.ino: This is a sketch file that can be uploaded to Arduino. (for both Serial and Bluetooth)<br />
 2) arduino_ehealth_serial.m: This is a MATLAB file to receive data via Arduino USB serial.<br />
 3) arduino_ehealth_bluetooth.m: This is a MATLAB file to receive via from Arduino Bluetooth HC-06.<br />
